@@ -67,4 +67,5 @@ Agile methodologies (Scrum, Kanban)
 ## 📫 Me encontre por aqui | Find me here  
 [📌 LinkedIn](https://www.linkedin.com/in/gustavobuenok/) 
 
-![snake gif](https://github.com/GustavoBuenoK/GustavoBuenoK/blob/output/github-contribution-grid-snake.svg)
+![Contribution Graph Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Graph Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
